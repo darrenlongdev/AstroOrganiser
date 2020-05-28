@@ -1,6 +1,8 @@
 # AstroOrganiser
 Astrophotography Capture Manager for organizing your astrophotography session data
 
+![ScreenShot](/images/ss.png)
+
 I wrote this application to aid me in my astrophotography from my home observatory. Its reasonably simple but simplifies the tasks I was performing, saving some time.
 
 I hope it will be useful for other astronomers, please feel free to provide feedback and feature requests.
