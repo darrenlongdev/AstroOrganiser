@@ -11,4 +11,9 @@ Included here is an installer for the latest version of the application, or a fo
 
 Version 2 includes a histrogram function which I have ported from a project by UEZ from AutoIt forums.
 
+I have also tested under Linux x64 using Wine.
+ - AstroOrganiser runs but folder naming doesn’t automatically name the folder by date
+ - AstroClock runs perfectly
+ - AstroViewer runs perfectly except for image editing
+
 In terms of licensing, Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), as I'm happy for people to redistribute it, so long as they credit myself. I'm not however looking to make the source publically available.
